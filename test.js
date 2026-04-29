@@ -1,3 +1,4 @@
+// TODO: refactor this
 const db = require('./db');
 const nodemailer = require('nodemailer');
 
